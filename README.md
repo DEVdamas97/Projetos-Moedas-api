@@ -17,6 +17,11 @@ Este aplicativo pode ser útil para quem deseja acompanhar a cotação de moedas
 - **AwesomeAPI**: API pública para cotação de moedas.  
   [Documentação da API](https://economia.awesomeapi.com.br/)
 
+## Acesse a aplicação online
+
+Você também pode conferir o projeto diretamente no seu navegador, sem precisar instalar nada: 
+👉: https://projetos-moedas-api-vinicius-damas.streamlit.app/
+
 ## Como Executar
 
 ### Pré-requisitos
