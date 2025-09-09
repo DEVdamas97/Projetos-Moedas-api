@@ -15,7 +15,7 @@ Este aplicativo pode ser útil para quem deseja acompanhar a cotação de moedas
 - **Streamlit**: Framework para criação rápida de interfaces interativas.
 - **Requests**: Biblioteca para requisições HTTP.
 - **AwesomeAPI**: API pública para cotação de moedas.  
-  [Documentação da API](https://economia.awesomeapi.com.br/)
+  [Documentação da API](https://docs.awesomeapi.com.br/)
 
 ## Acesse a aplicação online
 
